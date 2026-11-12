@@ -4,8 +4,6 @@
 **From:** Khizrali Kradiya
 **Data:** Open Data SA, 311 Service Calls, cases opened Nov 7, 2025 – Nov 6, 2026 (499,732 cases)
 
-> Draft – edit into your own words before publishing.
-
 ## Summary
 Over the past year, **10.2% of 311 requests (about 51,000) missed their service-level deadline.** The misses are not spread evenly. They concentrate in a few request types, a large aged backlog, and cases that enter the system without a clear owner or location. Three targeted fixes address the biggest sources.
 
