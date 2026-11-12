@@ -1,7 +1,5 @@
 # 311 Service Performance – Business Requirements
 
-> Draft – rewrite in your own words before publishing.
-
 ## Stakeholder
 Director of 311 Customer Service, City of San Antonio (hypothetical client), plus department leads for Animal Care Services, Development Services and Solid Waste Management.
 
